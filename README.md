@@ -1,6 +1,6 @@
  <!-- 헤더 -->
 <div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D639D,100:BECCDA&height=170&section=header&text=gchaewon's%20GitHub%20&animation=fadeIn&fontSize=50&fontAlignY=28&desc=welcome!&descAlignY=45&&descSize=20&fontColor=ffff"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D639D,100:BECCDA&height=170&section=header&text=gchaewon's%20GitHub%20&animation=fadeIn&fontSize=50&fontAlignY=28&desc=welcome!&descAlignY=48&&descSize=20&fontColor=ffff"/>
 </div>
 <div align="center">
   <section style="font-size=30%">
