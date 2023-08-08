@@ -1,16 +1,82 @@
-### Hi there 👋
+ <!-- 헤더 -->
+<div align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D639D,100:BECCDA&height=170&section=header&text=gchaewon's%20GitHub%20&animation=fadeIn&fontSize=50&fontAlignY=28&desc=welcome!&descAlignY=45&&descSize=20&fontColor=ffff"/>
+</div>
+<div align="center">
+  <section style="font-size=30%">
+    👋 Hi, I’m @gchaewon <br/>
+    👀 I’m interested in ML & FE Web programming <br/>
+    🌱 I’m currently learning Tensorflow & TypeScript <br/>
+  </section><br/>
+     <a href="https://velog.io/@gchaewon">
+        <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+      </a>
+      <a href="mailto:ichaewon878@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+      </a>
+  
+  ##
+  </section>
+  <section>
+    <h3> Tech Stack ⚙️ </h3>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ES6-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/><br/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <br/>
+  </section>
+  <section>
+    <h3> Studying 📖 </h3>
+     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> 
+  </section>
+
+  ##  
+  <section> 
+  <h3>Experience 🤝</h3>   
+    
+  |기간|소속|파트|
+  |------|---|---|
+  |23.03 ~ 현재|이화여대 멋쟁이사자처럼 11기|프론트엔드 운영진|
+  |22.03 ~ 23.02|이화여대 멋쟁이사자처럼 10기|프론트엔드 개발|
+  
+  </section> 
+  
+  <section>
+    <h3>Project 👩🏻‍💻</h3>   
+    
+  |기간|프로젝트|레포지토리|
+  |------|:---:|:---:|
+  |23.04 ~ 23.05|<a href="https://2023-ewha-festival.vercel.app/">2023 이화여대 대동제</a>|<a href="https://github.com/EWHA-LIKELION/11th-Ewha-Festival-Front"><img src="https://img.shields.io/badge/GitHub-222222?style=flat&logo=GitHub&logoColor=white"/></a>|
+  |23.01 ~ 23.02|<a href="https://naming.swygbro.com/">이름하여 이름하다</a>|<a href="https://github.com/NAME-ING/Naming-Front"><img src="https://img.shields.io/badge/GitHub-222222?style=flat&logo=GitHub&logoColor=white"/></a>|
+  |22.08 ~ 22.09|<a href="https://https://rewha.swygbro.com/">2022 이화여대 대동제</a>|<a href="https://github.com/EWHA-LIKELION/10th-Ewha-Festival-Front"><img src="https://img.shields.io/badge/GitHub-222222?style=flat&logo=GitHub&logoColor=white"/></a>|
+  |22.07 ~ 22.08|Over the OTT|<a href="https://github.com/Over-the-OTT/Over-the-OTT-front"><img src="https://img.shields.io/badge/GitHub-222222?style=flat&logo=GitHub&logoColor=white"/></a>|
+  
+  </section><br/>
+</div>
+      
+<!--github-->
+<!-- 
+<h3>Github :eyes: </h3>
+
+[![gchaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&theme=nord&hide_border=true&count_private=true)](https://github.com/gchaewon/github-readme-stats)
+-->
+</div>
 
 <!--
-**gchaewon/gchaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <section>
+    <h4>Contact 📞</h4>
+    <a href="https://velog.io/@gchaewon">
+      <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+    </a>
+    <a href="mailto:ichaewon878@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+    </a>
+    <br/><br/>
+  </section>
+  -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
