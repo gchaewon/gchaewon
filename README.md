@@ -5,8 +5,8 @@
 <div align="center">
   <section style="font-size=30%">
     👋 Hi, I’m @gchaewon <br/>
-    👀 I’m interested in ML & FE Web programming <br/>
-    🌱 I’m currently learning Tensorflow & TypeScript <br/>
+    👀 I’m interested in FE Web programming <br/>
+    🌱 I’m currently learning TypeScript <br/>
   </section><br/>
      <a href="https://velog.io/@gchaewon">
         <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
@@ -30,8 +30,8 @@
   <section>
     <h3> Studying 📖 </h3>
      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-     <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   </section>
 
   ##  
