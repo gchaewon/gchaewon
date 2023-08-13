@@ -52,7 +52,7 @@
   |------|:---:|:---:|
   |23.04 ~ 23.05|<a href="https://2023-ewha-festival.vercel.app/">2023 이화여대 대동제</a>|<a href="https://github.com/EWHA-LIKELION/11th-Ewha-Festival-Front"><img src="https://img.shields.io/badge/GitHub-222222?style=flat&logo=GitHub&logoColor=white"/></a>|
   |23.01 ~ 23.02|<a href="https://naming.swygbro.com/">이름하여 이름하다</a>|<a href="https://github.com/NAME-ING/Naming-Front"><img src="https://img.shields.io/badge/GitHub-222222?style=flat&logo=GitHub&logoColor=white"/></a>|
-  |22.08 ~ 22.09|<a href="https://https://rewha.swygbro.com/">2022 이화여대 대동제</a>|<a href="https://github.com/EWHA-LIKELION/10th-Ewha-Festival-Front"><img src="https://img.shields.io/badge/GitHub-222222?style=flat&logo=GitHub&logoColor=white"/></a>|
+  |22.08 ~ 22.09|<a href="https://rewha.swygbro.com/">2022 이화여대 대동제</a>|<a href="https://github.com/EWHA-LIKELION/10th-Ewha-Festival-Front"><img src="https://img.shields.io/badge/GitHub-222222?style=flat&logo=GitHub&logoColor=white"/></a>|
   |22.07 ~ 22.08|Over the OTT|<a href="https://github.com/Over-the-OTT/Over-the-OTT-front"><img src="https://img.shields.io/badge/GitHub-222222?style=flat&logo=GitHub&logoColor=white"/></a>|
   
   </section><br/>
