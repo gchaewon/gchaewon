@@ -5,8 +5,8 @@
 <div align="center">
   <section style="font-size=30%">
     👋 Hi, I’m @gchaewon <br/>
-    👀 I’m interested in FE Web programming <br/>
-    🌱 I’m currently learning TypeScript <br/>
+    👀 I’m interested in FE Web programming & ML <br/>
+    🌱 I’m currently learning ML <br/>
   </section><br/>
      <a href="https://velog.io/@gchaewon">
         <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
@@ -18,30 +18,33 @@
   ##
   </section>
   <section>
-    <h3> Tech Stack ⚙️ </h3>
+    <h3> Tech Stack ⚙ </h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/ES6-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <br/>
   </section>
-  <section>
+<!--   <section>
     <h3> Studying 📖 </h3>
      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> 
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   </section>
+ -->
 
-  ##  
+##
   <section> 
   <h3>Experience 🤝</h3>   
     
   |기간|소속|파트|
-  |------|---|---|
+  |:------:|:---:|:---:|
+  |23.09 ~ 현재|이화여대 Euron 5기|입문-초급팀 멤버|
   |23.03 ~ 현재|이화여대 멋쟁이사자처럼 11기|프론트엔드 운영진|
-  |22.03 ~ 23.02|이화여대 멋쟁이사자처럼 10기|프론트엔드 개발|
+  |22.03 ~ 23.02|이화여대 멋쟁이사자처럼 10기|프론트엔드 멤버|
   
   </section> 
   
