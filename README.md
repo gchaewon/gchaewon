@@ -59,19 +59,13 @@
   |23.01 ~ 23.02|<a href="https://naming.swygbro.com/">이름하여 이름하다</a>|<a href="https://github.com/NAME-ING/Naming-Front"><img src="https://img.shields.io/badge/GitHub-222222?style=flat&logo=GitHub&logoColor=white"/></a>|
   |22.08 ~ 22.09|<a href="https://rewha.swygbro.com/">2022 이화여대 대동제</a>|<a href="https://github.com/EWHA-LIKELION/10th-Ewha-Festival-Front"><img src="https://img.shields.io/badge/GitHub-222222?style=flat&logo=GitHub&logoColor=white"/></a>|
   |22.07 ~ 22.08|Over the OTT|<a href="https://github.com/Over-the-OTT/Over-the-OTT-front"><img src="https://img.shields.io/badge/GitHub-222222?style=flat&logo=GitHub&logoColor=white"/></a>|
-  
   </section><br/>
 </div>
       
-<!--github-->
-<!-- 
-<h3>Github :eyes: </h3>
-
-[![gchaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&theme=nord&hide_border=true&count_private=true)](https://github.com/gchaewon/github-readme-stats)
--->
-</div>
-
 <!--
+<h3>Github :eyes: </h3>
+[![gchaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gchaewon&theme=nord&hide_border=true&count_private=true)](https://github.com/gchaewon/github-readme-stats)
+</div>
   <section>
     <h4>Contact 📞</h4>
     <a href="https://velog.io/@gchaewon">
@@ -82,6 +76,5 @@
     </a>
     <br/><br/>
   </section>
-  -->
-
+-->
  
