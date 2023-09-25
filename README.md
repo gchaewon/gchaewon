@@ -26,6 +26,8 @@
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+    
   <br/>
   </section>
 <!--   <section>
