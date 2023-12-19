@@ -5,8 +5,7 @@
 <div align="center">
   <section style="font-size=30%">
     👋 Hi, I’m @gchaewon <br/>
-    👀 I’m interested in FE Web programming & ML <br/>
-    🌱 I’m currently learning ML <br/>
+    👀 I’m interested in Web programming & ML <br/>
   </section><br/>
      <a href="https://velog.io/@gchaewon">
         <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
@@ -15,7 +14,6 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
       </a>
   
-  ##
   </section>
   <section>
     <h3> Tech Stack ⚙ </h3>
