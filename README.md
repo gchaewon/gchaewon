@@ -42,8 +42,8 @@
     
   |기간|소속|파트|
   |:------:|:---:|:---:|
-  |23.09 ~ 현재|<a href="https://github.com/Ewha-Euron">이화여대 Euron 5기</a>|멤버|
-  |23.03 ~ 현재|<a href="https://github.com/EWHA-LIKELION">이화여대 멋쟁이사자처럼 11기</a>|프론트엔드 운영진|
+  |23.09 ~ 24.02|<a href="https://github.com/Ewha-Euron">이화여대 Euron 5기</a>|멤버|
+  |23.03 ~ 24.01|<a href="https://github.com/EWHA-LIKELION">이화여대 멋쟁이사자처럼 11기</a>|프론트엔드 운영진|
   |22.03 ~ 23.02|<a href="https://github.com/EWHA-LIKELION">이화여대 멋쟁이사자처럼 10기</a>|프론트엔드 멤버|
   
   </section> 
