@@ -5,27 +5,25 @@
 <div align="center">
   <section style="font-size=30%">
     👋 Hi, I’m @gchaewon <br/>
-    👀 I’m interested in Web programming & ML <br/>
-  </section><br/>
-     <a href="https://velog.io/@gchaewon">
-        <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
-      </a>
+    👀 I’m interested in Web programming <br/>
+  </section>
+     <br/>
       <a href="mailto:ichaewon878@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
       </a>
-  
-  </section>
+     <a href="https://velog.io/@gchaewon"> 
+         <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+      </a>
+
   <section>
     <h3> Tech Stack ⚙ </h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/ES6-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/><br/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-    
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
   <br/>
   </section>
 <!--   <section>
