@@ -8,12 +8,12 @@
     👀 I’m interested in Web programming <br/>
   </section>
      <br/>
-      <a href="mailto:ichaewon878@gmail.com">
+<!--       <a href="mailto:ichaewon878@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
       </a>
      <a href="https://velog.io/@gchaewon"> 
          <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
-      </a>
+      </a> -->
 
   <section>
     <h3> Tech Stack ⚙ </h3>
